@@ -1,2 +1,14 @@
 hola estoy aprendiendo a utilizar Git
 Y ademas he hecho mi primer commit YAY
+
+
+git init
+git status
+git add .
+git commit -m "mensaje"
+git log
+git checkout 000000
+git reset --hard 000000
+
+git push origin master 
+git pull origin master
